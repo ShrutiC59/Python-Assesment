@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Tanya",
+        "Address": "Vihar",
+        "City": "Pune",
+        "Country": "India",
+        "Pincode": "43212",
+        "SAT Score": 40.0,
+        "Passed": "Pass"
+    },
+    {
+        "Name": "Ishani",
+        "Address": "Baner",
+        "City": "Pune",
+        "Country": "India",
+        "Pincode": "42294",
+        "SAT Score": 50.0,
+        "Passed": "Pass"
+    }
+]
